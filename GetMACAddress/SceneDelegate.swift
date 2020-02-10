@@ -3,7 +3,6 @@
 //  GetMACAddress
 //
 //  Created by Spyros Panagiotopoulos on 8/2/20.
-//  Copyright © 2020 Spyros Panagiotopoulos. All rights reserved.
 //
 
 import UIKit

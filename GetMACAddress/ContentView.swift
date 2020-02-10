@@ -41,9 +41,9 @@ struct ContentView: View {
     }
     
     
-    // this function was taken from and is slightly modified: 
+    // this function was taken from
     // https://stackoverflow.com/a/30754194/3508517
-    
+    //and is slightly modified:
     func getAddress() -> String? {
         var address: String?
 
@@ -82,6 +82,8 @@ struct ContentView: View {
     }
     
     
+    // this function was taken from
+    // https://www.quora.com/How-do-I-get-the-Mac-address-and-IP-address-of-the-iOS-device-using-the-Swift-programming
     func getIFAddresses() -> [String] {
         var addresses = [String]()
         addressesLabel = ""
